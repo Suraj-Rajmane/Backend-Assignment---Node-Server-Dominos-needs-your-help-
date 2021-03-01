@@ -1,0 +1,4 @@
+module.exports = {
+    phone: '18602100000',
+    email: 'guestcaredominos@jublfood.com'
+}
